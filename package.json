@@ -2,7 +2,7 @@
   "name": "index-999",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MariiaC.github.io/IceCream-Team-Project ",
+  "homepage": "https://MariiaC.github.io/IceCream-Team-Project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /IceCream-Team-Project/"
